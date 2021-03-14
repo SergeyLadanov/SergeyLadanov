@@ -1,4 +1,9 @@
-### Hi there 👋
+### GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyLadanov&count_private=true&hide=tsql&langs_count=8&theme=dark&layout=compact)
+
+
+![SergeyLadanov GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeyLadanov&count_private=true&hide=contribs&show_icons=true&theme=dark)
 
 <!--
 **SergeyLadanov/SergeyLadanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
